@@ -18,7 +18,7 @@
   【Jeremy Howard】[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html) <br>[Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)
 
   自然语言处理
-  
+ 
   【Chris Manning】【standord】【Youtube】[CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)<br> [课程主页](http://web.stanford.edu/class/cs224n/)
 
   【Oxford】[Deep Learning for Natural Language Processing  2016-2017 ](https://github.com/oxford-cs-deepnlp-2017/lectures) <br>[课程主页](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
@@ -28,6 +28,8 @@
  数学基础部分
  
   【Gilbert Strang】【mit】【网易公开课】[线性代数](http://open.163.com/special/opencourse/daishu.html)
+  
+  [mit][Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
   
   【Ben Pola】【Yale】【网易公开课】[博弈论](http://open.163.com/special/gametheory/)
 
