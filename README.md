@@ -39,6 +39,7 @@
   系列教程
   
   【数据挖掘】【伊利诺伊大学香槟分校】
+  
   	1.【John C. Hart】[数据可视化](https://www.coursera.org/learn/datavisualization/home/welcome)
    
   	2.【ChengXiang Zhai】[文本检索和搜索引擎](https://www.coursera.org/learn/text-retrieval)
@@ -52,3 +53,17 @@
   	6.[结课项目](https://www.coursera.org/learn/data-mining-project)
 
 
+  	【深度学习】【吴恩达】
+
+  	1.
+
+  	2.
+
+  	3.
+
+  	4.
+
+  	5.
+  	
+   
+   
