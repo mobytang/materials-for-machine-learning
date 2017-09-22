@@ -3,7 +3,8 @@
 
 视频
 1.基础入门部分
-	机器学习部分
+
+   机器学习部分
   【吴恩达】【stanford】【Coursera】[机器学习](https://www.coursera.org/learn/machine-learning)
   
   【吴恩达】【stanford】【网易公开课】[CS229:Machine Learning](http://open.163.com/special/opencourse/machinelearning.html)
