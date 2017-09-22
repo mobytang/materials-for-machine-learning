@@ -37,12 +37,18 @@
 
 
   系列教程
-  【数据挖掘】【伊利诺伊大学香槟分校】【 ChengXiang Zhai】
+  
+  【数据挖掘】【伊利诺伊大学香槟分校】
   	1.【John C. Hart】[数据可视化](https://www.coursera.org/learn/datavisualization/home/welcome)
+   
   	2.【ChengXiang Zhai】[文本检索和搜索引擎](https://www.coursera.org/learn/text-retrieval)
+   
   	3.【ChengXiang Zhai】[文本挖掘与分析](https://www.coursera.org/learn/text-mining/home/welcome)
+   
   	4.【Jiawei Han】[数据挖掘中的模式识别](https://www.coursera.org/learn/data-patterns/home/welcome)
+   
   	5.【Jiawei Han】[数据挖掘中的聚类](https://www.coursera.org/learn/cluster-analysis)
+   
   	6.[结课项目](https://www.coursera.org/learn/data-mining-project)
 
 
