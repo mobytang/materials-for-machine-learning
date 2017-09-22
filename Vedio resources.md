@@ -19,7 +19,7 @@
 
   自然语言处理
   
-  【Chris Manning】【standord】【Youtube】[CS224n: Natural Language Processing with Deep Learning] (https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)<br> [课程主页](http://web.stanford.edu/class/cs224n/)
+  【Chris Manning】【standord】【Youtube】[CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)<br> [课程主页](http://web.stanford.edu/class/cs224n/)
 
   【Oxford】[Deep Learning for Natural Language Processing  2016-2017 ](https://github.com/oxford-cs-deepnlp-2017/lectures) <br>[课程主页](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 
