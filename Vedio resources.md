@@ -13,53 +13,43 @@
  
   深度学习部分
   
-  【Stanford】[Unsupervised Feature Learning and Deep Learning] (http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+  【Stanford】[Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
-  【Jeremy Howard】[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html) [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)
+  【Jeremy Howard】[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/index.html) <br>[Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)
 
   自然语言处理
   
-  【Chris Manning】【standord】【Youtube】[CS224n: Natural Language Processing with Deep Learning] (https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) [课程主页](http://web.stanford.edu/class/cs224n/)
+  【Chris Manning】【standord】【Youtube】[CS224n: Natural Language Processing with Deep Learning] (https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)<br> [课程主页](http://web.stanford.edu/class/cs224n/)
 
-  【Oxford】[Deep Learning for Natural Language Processing  2016-2017 ](https://github.com/oxford-cs-deepnlp-2017/lectures) 课程主页(http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+  【Oxford】[Deep Learning for Natural Language Processing  2016-2017 ](https://github.com/oxford-cs-deepnlp-2017/lectures) <br>[课程主页](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 
   
 
  数学基础部分
  
-  【Gilbert Strang】【mit】【网易公开课】线性代数(http://open.163.com/special/opencourse/daishu.html)
+  【Gilbert Strang】【mit】【网易公开课】[线性代数](http://open.163.com/special/opencourse/daishu.html)
   
-  【Ben Pola】【Yale】【网易公开课】博弈论(http://open.163.com/special/gametheory/)
+  【Ben Pola】【Yale】【网易公开课】[博弈论](http://open.163.com/special/gametheory/)
 
 
 2.系列教程
   
   【数据挖掘】【伊利诺伊大学香槟分校】
   
-  	1.【John C. Hart】[数据可视化](https://www.coursera.org/learn/datavisualization/home/welcome)
+  1.【John C. Hart】[数据可视化](https://www.coursera.org/learn/datavisualization/home/welcome)
    
-  	2.【ChengXiang Zhai】[文本检索和搜索引擎](https://www.coursera.org/learn/text-retrieval)
+  2.【ChengXiang Zhai】[文本检索和搜索引擎](https://www.coursera.org/learn/text-retrieval)
    
-  	3.【ChengXiang Zhai】[文本挖掘与分析](https://www.coursera.org/learn/text-mining/home/welcome)
+  3.【ChengXiang Zhai】[文本挖掘与分析](https://www.coursera.org/learn/text-mining/home/welcome)
    
-  	4.【Jiawei Han】[数据挖掘中的模式识别](https://www.coursera.org/learn/data-patterns/home/welcome)
+  4.【Jiawei Han】[数据挖掘中的模式识别](https://www.coursera.org/learn/data-patterns/home/welcome)
    
-  	5.【Jiawei Han】[数据挖掘中的聚类](https://www.coursera.org/learn/cluster-analysis)
+  5.【Jiawei Han】[数据挖掘中的聚类](https://www.coursera.org/learn/cluster-analysis)
    
-  	6.[结课项目](https://www.coursera.org/learn/data-mining-project)
+  6.[结课项目](https://www.coursera.org/learn/data-mining-project)
 
 
-  	【深度学习】【吴恩达】
+  【深度学习】【吴恩达】
 
-  	1.
-
-  	2.
-
-  	3.
-
-  	4.
-
-  	5.
-  	
    
    
