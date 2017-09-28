@@ -35,6 +35,36 @@
 
 
 2.系列教程
+
+   
+   【零基础python入门】【密歇根大学】【Charles Severance】
+
+   1.[Programming for Everybody](https://www.coursera.org/learn/python)
+
+   2.[Python Data Structures](https://www.coursera.org/learn/python-data/home)
+
+   3.[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home)
+
+   4.[Using Databases with Python](https://www.coursera.org/learn/python-databases/home)
+
+   5.[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home)
+
+
+   【数据科学】【密歇根大学】
+
+   1.[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+
+   2.[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+
+   3.[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+
+   4.[Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
+
+   5.[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
+
+   6.[Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+
+
   
   【数据挖掘】【伊利诺伊大学香槟分校】
   
