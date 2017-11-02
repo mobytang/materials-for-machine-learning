@@ -81,6 +81,38 @@
   6.[结课项目](https://www.coursera.org/learn/data-mining-project)
 
 
+
+  【机器学习】【华盛顿大学】
+  
+  1.[机器学习基础：案例研究](https://www.coursera.org/learn/ml-foundations)
+  
+  2.[机器学习：回归](https://www.coursera.org/learn/ml-regression)
+  
+  3.[分类](https://www.coursera.org/learn/ml-classification)
+  
+  4.[聚类和检索](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+  
+  
+  【高级机器学习】【俄罗斯国立高等经济学院】【2017.12】
+  
+  1.[Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning)
+  
+  2.[How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
+  
+  3.[Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
+  
+  4.[Introduction to Reinforcement Learning](https://www.coursera.org/learn/introduction-to-reinforcement-learning)
+  
+  5.[Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision）
+  
+  6.[Natural Language Processing](https://www.coursera.org/learn/language-processing)
+  
+  7.[Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
+  
+ 【算法】【普林斯顿大学】【Robert Sedgewick】
+ 
+ 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+  
    
 【算法】【stanford】【Tim Roughgarden】
 
@@ -91,6 +123,11 @@
 3.[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
 
 4.[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)
+
+
+
+
+
 
   【深度学习】【吴恩达】
 
