@@ -109,6 +109,58 @@
   
   7.[Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
   
+  
+  
+  【深度学习】【吴恩达】
+
+1.[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home)
+
+2.[Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home)
+
+3.[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home)
+
+4.[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home)
+
+5.[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
+
+  【概率图模型】【斯坦福大学】【Daphne Koller】
+
+ 1.[Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models/home/welcome) 
+
+ 2.[Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference/home/welcome)
+
+ 3.[Probabilistic Graphical Models 3: Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning/home/welcome)
+
+
+
+【Data Science】【约翰霍普金斯大学】
+
+1.[数据科学家的工具箱](https://www.coursera.org/learn/data-scientists-tools)
+
+2.[R Programming](https://www.coursera.org/learn/r-programming)
+
+3.[Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
+
+4.[Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
+
+5.[Reproducible Research](https://www.coursera.org/learn/reproducible-research)
+
+6.[Statistical Inference](https://www.coursera.org/learn/statistical-inference)
+
+7.[Regression Models](https://www.coursera.org/learn/regression-models)
+
+8.[Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
+
+9.[Developing Data Products](https://www.coursera.org/learn/data-products)
+
+10.[Data Science Capstone](https://www.coursera.org/learn/data-science-project)
+
+
+  
+  
+  
+  
  【算法】【普林斯顿大学】【Robert Sedgewick】
  
  1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
@@ -129,7 +181,3 @@
 
 
 
-  【深度学习】【吴恩达】
-
-   
-   
